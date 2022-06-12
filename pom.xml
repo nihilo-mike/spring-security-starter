@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.nihilo</groupId>
-	<artifactId>AbtTutors</artifactId>
+	<artifactId>Spring security starter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>AbtTutors</name>
-	<description>Learning management system</description>
+	<name>Security</name>
+	<description>Barebone starter</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
